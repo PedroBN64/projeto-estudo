@@ -6,7 +6,7 @@ const images = [
     src: "/imagens/acaradisco.jpg",
     alt: "Acará Disco",
     title: "Acará Disco",
-    description: "O acará-disco pertence à família dos ciclideos e capta a atenção pela forma particular do seu corpo, achatado e circular.",
+    description: "O acará-disco pertence à família dos ciclideos e ...",
     time: "5 min",
     likes: 28
   },
